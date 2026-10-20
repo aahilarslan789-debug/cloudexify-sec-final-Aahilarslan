@@ -1,4 +1,4 @@
-# CloudExify Cybersecurity Internship - Final Capstone Project
+# Vulnerability Assessment & Remediation Lab
 
 **Intern:** [Aahil Arslan]  
 **Completion Date:** August 31, 2026  
